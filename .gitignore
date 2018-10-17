@@ -1,0 +1,11 @@
+node_modules
+src/**/*.js
+src/**/*.json
+dist/**/*.js
+dist/**/**/*.hbs
+dist/
+package-lock.json
+.idea
+.wwww
+.vscode
+test/all_tests.js
